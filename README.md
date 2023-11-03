@@ -1,4 +1,5 @@
 # Домашнее задание к занятию "7. Работа с HTTP"
+![CI](https://github.com/Maxon1975/HTTP/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
